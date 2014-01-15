@@ -1,6 +1,6 @@
 {
   "name": "enslave",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "binds `this` to a function's first argument",
   "main": "index.js",
   "scripts": {
